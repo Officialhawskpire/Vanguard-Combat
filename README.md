@@ -1,2 +1,3 @@
 # Vanguard-Combat
 Vanguard Combat is a Upcoming FPS unity game that focuses on campaign and Multiplayer
+The story takes place in the year 2006 where Russian Special forces discover a CIA Black site in the North Caucasus planning to Invade moscow. a company by the name of Yantersk deploys Gerbal 5 division to deploy an attack on the United states as long with Russian Special forces meanwhile UN fears that this will result in World war 3 so they send Talos security group to stop both forces from Conflict. Can you do what it takes to defeat both forces? or will you let the conflict spread throughout the region? 
